@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipundhiman13&label=Profile%20views&color=0e75b6&style=flat" alt="nipundhiman13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipundhiman13" alt="nipundhiman13" /></a> </p>
-
 - 🔭 I’m currently working on **Air Index Quality Checker**
 
 - 🌱 I’m currently learning **CSS3, Intermediate JAVA**
