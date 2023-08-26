@@ -1,3 +1,4 @@
+![logo](https://github.com/NipunDhiman13/NipunDhiman13/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Nipun Dhiman</h1>
 <h3 align="center">A passionate frontend developer currently a sophomore in SRMIST KTR</h3>
 
