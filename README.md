@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/nipun-dhiman-64a468250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun-dhiman-64a468250/" height="30" width="40" /></a>
 <a href="https://kaggle.com/nipundhiman13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nipundhiman13" height="30" width="40" /></a>
 <a href="https://instagram.com/nipun_dhiman13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nipun_dhiman13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nipundhiman_nd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nipundhiman_nd" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nd7885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nipundhiman_nd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nipundhiman13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipundhiman13" height="30" width="40" /></a>
 </p>
 
