@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nipundhiman.nd@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/inrt5](https://shorturl.at/inrt5)
+- 📄 Know about my experiences [Resume] (https://drive.google.com/file/d/1wtRdNINfuy7AaKIvoBHsYLSROWF96AnL/view?usp=drive_link)
 
 - ⚡ Fun fact **I was Finalist in my 1st Hackathon**
 
