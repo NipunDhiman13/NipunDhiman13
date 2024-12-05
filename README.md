@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Plant Disease Detection**
 
-- 🌱 I’m currently learning **Backend Developing (Mongo DB) Frontend (JavaScript React) DSA**
+- 🌱 I’m currently learning **Springboot (JavaScript)**
 
 - 👯 I’ve Recently Completed [Pneumonia detection using image analysis](https://github.com/NipunDhiman13/JavaScript_Junkies_HackStreet2.0)
 
 - 📫 How to reach me **nipundhiman.nd@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1wtRdNINfuy7AaKIvoBHsYLSROWF96AnL/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1wtRdNINfuy7AaKIvoBHsYLSROWF96AnL/view?usp=drive_link
 
-- ⚡ Fun fact **I was Finalist in my 1st Hackathon**
+- ⚡ Fun fact **I was a Finalist in my 1st Hackathon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
