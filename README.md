@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Springboot (JavaScript)**
 
-- 👯 I’ve Recently Completed [Pneumonia detection using image analysis](https://github.com/NipunDhiman13/JavaScript_Junkies_HackStreet2.0)
+- 👯 I’ve Recently Completed [Chat Blog Social Media WebApp](https://github.com/NipunDhiman13/Chat-Blog-Social-Media-WebApp)
 
 - 📫 How to reach me **nipundhiman.nd@gmail.com**
 
